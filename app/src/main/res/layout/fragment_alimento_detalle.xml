@@ -8,7 +8,9 @@
     <TableRow android:background="?colorPrimary">
 
         <TextView
-            android:layout_column="0"
+            android:layout_span="4"
+            android:textAlignment="center"
+            android:textSize="35px"
             android:padding="6dip"
             android:id="@+id/tv_peso"
             android:textColor="@android:color/white" />
